@@ -220,7 +220,10 @@ case 2:
 default:
     resposta10 = "Opção inválida"
     break;
+    
 }}
+ 
+
 
 var resp = document.getElementById("respostas")
 function respostas(){
