@@ -1,4 +1,4 @@
-*{
+**{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -11,7 +11,7 @@ body{
 
 @font-face {
     font-family: 'Ysabeau';
-    src: url(./Ysabeau/Ysabeau-VariableFont_wght.ttf);
+    src: url(./assets/fontes/Ysabeau/Ysabeau-VariableFont_wght.ttf);
 }
 @font-face {
         font-family: 'Montserrat';
@@ -90,7 +90,7 @@ h3{
 h4{
     font-family: 'Montserrat';
     font-size: 23px;
-    padding: 0px 7px
+    padding: 0px 7px;
 }
 
 p{
@@ -187,12 +187,3 @@ footer{
     color:#000000;
     margin-left: 47%;
 }
-
-
-
-
-
-
-
-
-
